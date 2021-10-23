@@ -1,14 +1,14 @@
 body{
-	padding-top: 70px;
+	padding-top: 70px;	//Top padded to 7 pixel
 }
 
-.jumbotron {
+.jumbotron {			// bootstrap jumbotron box
 	color: #2c3e50;
 	background: #ecf0f1;
 }
 
 .navbar-inverse .navbar-nav>li>a {
-	color: white;
+	color: white;			// Nav color to white
 }
 
 .navbar-inverse .navbar-brand {
